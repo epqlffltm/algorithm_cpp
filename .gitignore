@@ -1,0 +1,7 @@
+# Visual Studio 임시 파일
+.vs/
+
+# 일반적인 빌드 파일
+*.ipch
+*.obj
+*.exe
